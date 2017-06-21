@@ -1,2 +1,6 @@
 /*aquí va tu código*/
-window.addEventListener("load",doFist,false);
+function doFirst{
+	var comentar = document.getElementById("add-button");
+	button.addEventListener("click",saveComment,false);
+}
+window.addEventListener("load",doFirst,false);
