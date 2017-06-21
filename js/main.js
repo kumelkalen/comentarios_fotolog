@@ -13,7 +13,10 @@ function saveComment () {
 	display();
 }
 
+function display (){
+	var contComment = document.getElementById("ale");
 
+}
 
 
 window.addEventListener("load",doFirst,false);
